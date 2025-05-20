@@ -7,7 +7,7 @@ public class develop2 : MonoBehaviour
    
     void Start()
     {
-        //develop3
+      //main_2
     }
 
    
