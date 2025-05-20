@@ -2,12 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class develop2 : MonoBehaviour
+public class qkrwjdtlrz : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        //develop3
+        
     }
 
     // Update is called once per frame

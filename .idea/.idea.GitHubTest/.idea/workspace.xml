@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a5b4db0-220c-42c3-91e9-13b739f9622e" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/develop/develop2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/develop/develop2.cs" afterDir="false" />
-    </list>
+    <list default="true" id="6a5b4db0-220c-42c3-91e9-13b739f9622e" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +12,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/PC/Documents/GitHub/GitHubTest/Assets/develop/develop2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/Documents/GitHub/GitHubTest/Assets/develop/develop2.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -25,7 +27,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "main__2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
